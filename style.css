@@ -106,7 +106,7 @@ body {
     display: flex;
     justify-content: center;
     list-style: none;
-    padding: 5em;
+    padding: 5em 0;
 }
 
 .lista__item {
@@ -115,7 +115,7 @@ body {
 
 .rodape {
     text-align: center;
-    margin: 5em 0;
+    margin: 5em 3m;
 }
 
 .rodape__lista {
